@@ -98,5 +98,5 @@ npm run dev     # starts frontend on http://localhost:5173
 - **Database:** MongoDB + Mongoose
 - **Auth:** JWT (JSON Web Tokens) + bcryptjs
 
-## Team
-4 members working on separate GitHub feature branches.
+## Author
+Shubhra Pandey
